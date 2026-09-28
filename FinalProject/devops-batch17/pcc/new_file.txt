@@ -1,0 +1,2 @@
+This is another file.
+Appended new line.
