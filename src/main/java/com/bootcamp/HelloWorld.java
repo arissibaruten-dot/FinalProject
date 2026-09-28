@@ -9,4 +9,7 @@ public class HelloWorld {
         System.out.println(new HelloWorld().getMessage());
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3fbcea55e07add7ae8dfa2ebf187b24be94969d6
